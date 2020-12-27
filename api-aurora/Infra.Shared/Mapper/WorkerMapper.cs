@@ -2,7 +2,6 @@
 using System.Linq;
 using Aurora.Domain.Entities;
 using Aurora.Domain.Models;
-
 namespace Infra.Shared.Mapper
 {
     public static class WorkerMapper
